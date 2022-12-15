@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Game-Over-by-React/static/css/main.5f0da932.css",
+    "main.js": "/Game-Over-by-React/static/js/main.e66814a3.js",
+    "static/js/787.d1340d69.chunk.js": "/Game-Over-by-React/static/js/787.d1340d69.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Game-Over-by-React/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/background.png": "/Game-Over-by-React/static/media/background.0fddd1fbe0a5e0a0af93.png",
+    "static/media/gaming.jpg": "/Game-Over-by-React/static/media/gaming.d5751ff804c935b205d3.jpg",
+    "static/media/fa-brands-400.ttf": "/Game-Over-by-React/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/logo.png": "/Game-Over-by-React/static/media/logo.548dc5719c2345c22eef.png",
+    "static/media/fa-solid-900.woff2": "/Game-Over-by-React/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/Game-Over-by-React/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/Bean Eater-1.2s-200px.gif": "/Game-Over-by-React/static/media/Bean Eater-1.2s-200px.7ece1cd995f6ad72a63e.gif",
+    "static/media/fa-regular-400.ttf": "/Game-Over-by-React/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/fa-regular-400.woff2": "/Game-Over-by-React/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/logo2.png": "/Game-Over-by-React/static/media/logo2.99928cddb06369f42713.png",
+    "static/media/fa-v4compatibility.ttf": "/Game-Over-by-React/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Game-Over-by-React/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/Game-Over-by-React/index.html",
+    "main.5f0da932.css.map": "/Game-Over-by-React/static/css/main.5f0da932.css.map",
+    "main.e66814a3.js.map": "/Game-Over-by-React/static/js/main.e66814a3.js.map",
+    "787.d1340d69.chunk.js.map": "/Game-Over-by-React/static/js/787.d1340d69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f0da932.css",
+    "static/js/main.e66814a3.js"
+  ]
+}
