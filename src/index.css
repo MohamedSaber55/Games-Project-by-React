@@ -1,0 +1,213 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates&display=swap");
+:root {
+  --bg-color: #272b30;
+  --light-bg: #24baef;
+  --border-color: #a8a8a83d;
+  --font-color: #aaa;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+  background-color: var(--bg-color) !important;
+  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.2);
+}
+.footer {
+  background-color: var(--bg-color) !important;
+  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.2);
+}
+
+.outLet-container {
+  min-height: 100vh;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--font-color);
+  font-family: "Montserrat Alternates", sans-serif;
+}
+a,
+a:hover {
+  color: var(--font-color);
+  text-decoration: none;
+}
+
+.my-input {
+  background-color: transparent;
+  color: var(--font-color);
+  border: 1px solid var(--border-color);
+}
+.brdr {
+  height: 1px;
+  background-color: var(--border-color);
+}
+
+.vote {
+  background-color: var(--light-bg);
+  color: var(--font-color);
+}
+
+.movie {
+  cursor: pointer;
+}
+
+.logo-nav {
+  width: 68px;
+  filter: drop-shadow(1px 1px 3px #1983e6ce);
+}
+.logo-form {
+  width: 90px;
+  filter: drop-shadow(1px 1px 3px #1983e6ce);
+}
+
+.login-img {
+  background-image: url(images/gaming.jpg);
+  background-position: center center;
+  background-size: 100% 100%;
+}
+
+.btn-gray {
+  background-color: var(--border-color);
+  border: 1px solid rgba(0, 0, 0, 0.9);
+  color: var(--font-color);
+}
+
+.btn-gray:hover {
+  background-color: var(--border-color);
+  border: 1px solid rgba(0, 0, 0, 0.9);
+  color: var(--font-color);
+}
+
+.login-form {
+  background-color: #32383e;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--font-color);
+  font-family: "Montserrat Alternates", sans-serif;
+}
+a,
+a:hover {
+  color: var(--font-color);
+  text-decoration: none;
+}
+
+.my-input {
+  /* background-color: transparent; */
+  color: var(--font-color);
+  border: 1px solid var(--border-color);
+  width: 75%;
+}
+.my-inputregister {
+  background-color: #1c1e22;
+  color: var(--font-color);
+  border: 0 solid rgba(0, 0, 0, 0.6);
+  width: 75%;
+}
+.brdr {
+  height: 1px;
+  background-color: var(--border-color);
+}
+
+.loginbg {
+  background-color: #32383e;
+}
+
+.submit {
+  border: 1px solid #22241d;
+  color: #fff;
+  background-color: #3a3f44;
+}
+.submit:hover {
+  border: 1px solid #22241d;
+  color: #fff;
+  background-color: #3a3f44;
+}
+.Join:hover {
+  background-color: transparent;
+  color: #24baef;
+}
+
+.navbar {
+  background-color: #272b30 !important;
+  border-bottom: 1px solid rgba(28, 28, 28, 0.6);
+}
+
+.registerText {
+  font-size: 13px;
+  padding-top: 10px;
+}
+
+.game {
+  transition: all 0.4s;
+  overflow: hidden;
+  background-color: #32383e;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.6);
+  border-radius: 0.25rem;
+  margin-bottom: 40px;
+}
+.game:hover {
+  cursor: pointer;
+  transform: scale(1.05);
+}
+
+.head-home {
+  padding: 80px 0 50px;
+  border-bottom: 1px solid rgba(28, 28, 28, 0.6);
+  background-image: url(../src/images/background.png);
+  background-position: center center;
+  background-size: cover;
+}
+
+/* .badge{
+background-color: #7a8288;
+} */
+
+.spinner {
+  overflow: hidden;
+  position: absolute;
+  width: 80%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 80vh;
+  background-color: var(--bg-color);
+  color: var(--font-color);
+}
+
+
+
+.likes-item {
+  cursor: pointer;
+  transition: 0.2s linear;
+}
+.likes-item:hover {
+    background-color: #3a3f44 !important;
+}
+
+
+.footer {
+  background-color: #1c1e22 !important;
+}
+.footer a {
+  color: #fff !important;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+  font-size: 14px;
+}
+.footer-bottom-p {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+  font-size: 80%;
+  
+}
+.list-inline  {
+  display: flex;
+  justify-content: flex-end;
+}
