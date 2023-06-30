@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Games-Project-by-React/static/css/main.0d13a767.css",
-    "main.js": "/Games-Project-by-React/static/js/main.7f375abc.js",
+    "main.js": "/Games-Project-by-React/static/js/main.5ff875ea.js",
     "static/js/787.d1340d69.chunk.js": "/Games-Project-by-React/static/js/787.d1340d69.chunk.js",
     "static/media/fa-solid-900.ttf": "/Games-Project-by-React/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/background.png": "/Games-Project-by-React/static/media/background.0fddd1fbe0a5e0a0af93.png",
@@ -18,11 +18,11 @@
     "static/media/fa-v4compatibility.woff2": "/Games-Project-by-React/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/Games-Project-by-React/index.html",
     "main.0d13a767.css.map": "/Games-Project-by-React/static/css/main.0d13a767.css.map",
-    "main.7f375abc.js.map": "/Games-Project-by-React/static/js/main.7f375abc.js.map",
+    "main.5ff875ea.js.map": "/Games-Project-by-React/static/js/main.5ff875ea.js.map",
     "787.d1340d69.chunk.js.map": "/Games-Project-by-React/static/js/787.d1340d69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d13a767.css",
-    "static/js/main.7f375abc.js"
+    "static/js/main.5ff875ea.js"
   ]
 }
